@@ -1,0 +1,5 @@
+逆向工程说明：
+1、执行操作，修改generatorConfig.xml中的数据库账户密码
+2、执行GeneratorSqlmap类的main方法即可
+3、然后将该工程生成的文件拷贝到对应的多Maven项目文件夹中
+
